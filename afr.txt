@@ -1,0 +1,5 @@
+ajouter les liens au boutons reseaux
+valider couleurs entreprises
+ajouter les logos de l'entreprise
+gerer la recuperation des donnes 
+ajouter si possible les moyen de paiement
